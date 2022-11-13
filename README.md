@@ -24,7 +24,8 @@ Our goal is to make it easier for individuals who are deaf or have hearing loss 
    [5]: https://pub.dev/packages/flip_card
    [6]: https://pub.dev/packages/getwidget
   
-  
+  ![photo_2022-11-11_13-30-27](https://user-images.githubusercontent.com/102048956/201532303-45c7b414-20e3-4d5a-b1f6-cd4b800386e9.jpg)
+
 ## Installation
 ```
 flutter pub get
